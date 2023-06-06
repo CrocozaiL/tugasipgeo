@@ -1,3 +1,7 @@
+#Zailani abdillah
+#1843902
+#Pemrograman Jaringan dan Sistem
+
 import requests
 
 while True:
